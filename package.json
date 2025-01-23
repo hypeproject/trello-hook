@@ -1,14 +1,14 @@
 {
-  "name": "trello-discord-webhook",
-  "version": "0.0.0",
+  "name": "trello-hook",
+  "version": "0.0.1",
   "description": "Server that listens to actions on a Trello webhook and sends these as embed to a Discord webhook.",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/guidojw/trello-discord-webhook.git"
+    "url": "https://github.com/hypeproject/trello-hook.git"
   },
   "license": "MIT",
-  "author": "Guido de Jong",
+  "author": "Sleepy Rae",
   "main": "app.js",
   "scripts": {
     "build": "tsc",

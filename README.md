@@ -1,4 +1,3 @@
-
 ## Prerequisites
 
 * [Node.js](https://nodejs.org/en/download/current/)
